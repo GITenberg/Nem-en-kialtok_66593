@@ -1,0 +1,29 @@
+_repo: Nem-en-kialtok_66593
+_version: 0.0.1
+creator:
+  author:
+    agent_name: József, Attila
+    aliases:
+    - Josef, Attila
+    - Jozsef, Attila
+    birthdate: 1905
+    deathdate: 1937
+    gutenberg_agent_id: '53688'
+    url: http://www.gutenberg.org/2009/agents/53688
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/J%C3%B3zsef_Attila
+    - https://en.wikipedia.org/wiki/Attila_J%C3%B3zsef
+description: ''
+gutenberg_issued: '2021-10-22'
+identifiers:
+  gutenberg: '66593'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian poetry'
+- !lcc 'PH'
+- GITenberg
+title: Nem én kiáltok
+url: http://www.gutenberg.org/ebooks/66593
