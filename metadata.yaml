@@ -1,5 +1,8 @@
 _repo: Nem-en-kialtok_66593
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: József, Attila
@@ -14,6 +17,8 @@ creator:
     - https://hu.wikipedia.org/wiki/J%C3%B3zsef_Attila
     - https://en.wikipedia.org/wiki/Attila_J%C3%B3zsef
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66593#Nem-en-kialtok
 gutenberg_issued: '2021-10-22'
 identifiers:
   gutenberg: '66593'
